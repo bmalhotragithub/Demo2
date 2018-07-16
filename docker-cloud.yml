@@ -1,4 +1,4 @@
 Demo2:
   image: dockercloud/Demo2
   ports:
-    - "80:10200"
+    - "80:1020"
